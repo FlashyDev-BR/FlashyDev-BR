@@ -41,7 +41,7 @@ A recent personal project where I applied my skills in HTML, CSS, and JavaScript
 
 <h3 style="color:#7B2CBF;">📫 Let's Connect</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-placeholder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flashydev/)
 
 ---
 
